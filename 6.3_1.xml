@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Curriculum>
+  <InformacionPersonal>
+    <Nombre>John Doe</Nombre>
+    <CorreoElectronico>johndoe@gmail.com</CorreoElectronico>
+    <Telefono>555-1234</Telefono>
+    <Direccion>Calle Falsa 123, Springfield</Direccion>
+  </InformacionPersonal>
+  <Educacion>
+    <Titulo>Ing. en Sistemas</Titulo>
+    <Institucion>Universidad Nacional de México</Institucion>
+    <Periodo>2010-2015</Periodo>
+  </Educacion>
+  <Experiencia>
+    <Puesto>Desarrollador Web</Puesto>
+    <Empresa>Acme Corporation</Empresa>
+    <Periodo>2015-2018</Periodo>
+    <Descripcion>Desarrollo y mantenimiento de aplicaciones web utilizando tecnologías como HTML, CSS, JavaScript, PHP y MySQL.</Descripcion>
+  </Experiencia>
+  <Experiencia>
+    <Puesto>Desarrollador Full Stack</Puesto>
+    <Empresa>Globex Corporation</Empresa>
+    <Periodo>2018-2021</Periodo>
+    <Descripcion>Desarrollo y mantenimiento de aplicaciones web y móviles utilizando tecnologías como HTML, CSS, JavaScript, React, Node.js, Java y MongoDB.</Descripcion>
+  </Experiencia>
+  <Experiencia>
+    <Puesto>Arquitecto de Software</Puesto>
+    <Empresa>Wayne Enterprises</Empresa>
+    <Periodo>2021-Presente</Periodo>
+    <Descripcion>Diseño y desarrollo de arquitecturas de software escalables y de alta disponibilidad para aplicaciones web y móviles.</Descripcion>
+  </Experiencia>
+</Curriculum>

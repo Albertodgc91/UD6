@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+  <personal_info>
+    <name>Nombre Apellido</name>
+    <email>correo@ejemplo.com</email>
+    <phone>123-456-7890</phone>
+    <address>Calle Ejemplo, Ciudad, País</address>
+  </personal_info>
+  <education>
+    <degree>
+      <title>Título universitario</title>
+      <school>Nombre de la universidad</school>
+      <location>Ciudad, País</location>
+      <date>Fecha de graduación</date>
+    </degree>
+    <degree>
+      <title>Otro título universitario</title>
+      <school>Otra universidad</school>
+      <location>Ciudad, País</location>
+      <date>Fecha de graduación</date>
+    </degree>
+  </education>
+  <experience>
+    <job>
+      <title>Cargo actual o último cargo</title>
+      <employer>Nombre de la empresa</employer>
+      <location>Ciudad, País</location>
+      <date>Fecha de inicio - Fecha de fin</date>
+      <description>Descripción de las responsabilidades y logros en el trabajo.</description>
+    </job>
+    <job>
+      <title>Otro cargo previo</title>
+      <employer>Otra empresa</employer>
+      <location>Ciudad, País</location>
+      <date>Fecha de inicio - Fecha de fin</date>
+      <description>Descripción de las responsabilidades y logros en el trabajo.</description>
+    </job>
+  </experience>
+  <skills>
+    <skill>Nombre de habilidad</skill>
+    <skill>Otra habilidad</skill>
+    <skill>Otra habilidad más</skill>
+  </skills>
+</curriculum>
